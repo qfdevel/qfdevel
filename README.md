@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aras Yılmaz (@qfdevel)
+# Hi, I'm Aras (@qfdevel)
 
 Low-Level Systems Developer & Reverse Engineer. I build operating systems from scratch and write bare-metal code for raw hardware.
 
