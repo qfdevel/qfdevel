@@ -4,7 +4,7 @@ Low-Level Systems Developer & Reverse Engineer. I build operating systems from s
 
 ---
 
-### 🛠️ Core Project: [Toasty-Unix-Software (TUS)](https://github.com)
+### 🛠️ Core Project: [Toasty-Unix-Software (TUS)](https://github.com/Toasty-Unix-Software)
 
 A UNIX-like operating system written in **50,000+ lines of pure C and Assembly** targeting AMD64.
 
