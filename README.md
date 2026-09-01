@@ -22,6 +22,6 @@ A UNIX-like operating system written in **50,000+ lines of pure C and Assembly**
 
 ---
 
-### 📬 Connect
+### 📬 Contact
 
 - 📧 **Email:** arasqf@gmail.com
