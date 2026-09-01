@@ -16,7 +16,7 @@ A UNIX-like operating system written in **50,000+ lines of pure C and Assembly**
 
 ### 💻 Technical Skills
 
-- **Languages:** C, Assembly (x86_64 / PowerPC / ARM64), Python, Go, Bash
+- **Languages:** C (medium level), Assembly (i can only write bootloader), Python, Bash
 - **Low-Level:** APIC, ACPI Parsing, xHCI/EHCI, PCI Bus, IDE/ATA, Page Tables
 - **Tooling:** GCC, Clang, QEMU, GDB, GNU Make, Logic Analyzers
 
